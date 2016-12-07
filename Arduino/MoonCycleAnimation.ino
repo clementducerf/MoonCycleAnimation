@@ -1,7 +1,7 @@
 /* 
   Animate 14 led rows to simulate a moon cycle
   Led rows have need be place in a circular shape 
-  More info at: http://www.github.com/
+  More info at: https://github.com/clementducerf/MoonCycleAnimation/
   
   For Arduino Mega 2560 (Need 14 pwm outputs)
   
